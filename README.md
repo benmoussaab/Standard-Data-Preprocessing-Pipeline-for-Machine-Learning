@@ -11,16 +11,4 @@ This repository contains a standard data preprocessing pipeline for machine lear
 - Normalizes numerical features using StandardScaler  
 - Splits the data into features (`X`) and target (`y`)  
 
-## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
-
-## 📂 File Structure
-repo-name/
-│── preprocessing.py    # Main preprocessing script
-│── README.md           # Project documentation
-│── data/               # Folder for datasets
-│   ├── your-dataset.csv
